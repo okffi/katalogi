@@ -1,8 +1,11 @@
+
+# Yhteisövetoinen datakatalogi
+
+## Taustaa
+
 Tämä on [Open Knowledge Finlandin](http://fi.okfn.org/) projekti yhteisövetoisen CKAN2-datakatalogin luomiseksi. 
 
 Aikaisemmin ylläpitämämme CKAN1 on tullut tiensä päähän. (missä se sijaitsee - en löytänyt?) Projektilla on tässä vaiheessa käytettävissää hyvin vähän rahaa - enintään serverikuluihin. Etenemme yhteisövetoisesti ja pyrimme tukemaan osallistujien henkilökohtaista oppimista ja opitun hyödyntämistä muissa projekteissa.
-
-# projekti
 
 ## [Serverin hankkiminen](https://github.com/okffi/katalogi/issues?milestone=1&state=open)
 
