@@ -1,4 +1,3 @@
-
 # Ennakkovalmistelut
 
 ## Debian / Ubuntu
@@ -16,7 +15,7 @@ ja suunnitelma niiden täyttämiseen.
 | Python	        | python         |             |                 |
 | PostgreSQL	    | postgresql     |             |                 |
 | libpq	          | postgresql [1] |             |                 |
-| pip	            | pip [2]        |             |                 |
+| pip	            | python [2]     |             |                 |
 | virtualenv	    |                | virtualenv  |                 |
 | Git	            | git            |             |                 |
 | Apache Solr	    | solr           |             |                 |
