@@ -1,4 +1,3 @@
-
 # Yhteisövetoinen datakatalogi
 
 ## Taustaa
@@ -9,7 +8,7 @@ Aikaisemmin ylläpitämämme CKAN1 on tullut tiensä päähän. (missä se sijai
 
 ## [Serverin hankkiminen](https://github.com/okffi/katalogi/issues?milestone=1&state=open)
 
-Tarvitsemme aluksi serverin, jonne palvelu voidaan asentaa. Myöhemmät työvaiheet riippuvat siitä minkälaisen ympäristön saamme käyttöömme.
+Tamperelainen [Opentieto](http://opentieto.fi/) [tarjoaa](https://github.com/okffi/katalogi/issues/3) serverin käyttöömme. Tällä hetkellä evaluoimme erilaisia virtualisointi- ja konfiguraationhallintaratkaisuja.
 
 ## [Työryhmän käynnistäminen](https://github.com/okffi/katalogi/issues?milestone=2&state=open)
 
