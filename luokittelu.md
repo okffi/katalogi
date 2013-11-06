@@ -7,7 +7,6 @@
 Tilastotietoa kaupunkien asuntokannasta, asuntotuotannosta ja muusta asumiseen liittyvästä, kuten asumisväljyys, suntokuntien keskikoko, valmistumisvuosi, talotyyppi, asumisväljyys jne.
 
 * Esimekkiaineisto: [Asuntojen hallintaperuste Vantaalla 2007 – 2010][HOU_HRI_esimerkki]
-
 * Esimerkkisovellus: [Asuntokuume: Täältä löytyy edullisin koti urbaanille lapsiperheelle][HOU_sovellus]
 
 
@@ -18,7 +17,6 @@ Tilastotietoa kaupunkien asuntokannasta, asuntotuotannosta ja muusta asumiseen l
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kunnallisvaalit Helsingissä 1984-2008, äänimäärät][DEM_HRI_esimerkki]
-
 * Esimerkkisovellus: [Helsingin päätökset][DEM_sovellus]
 
 
@@ -29,7 +27,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Terassit Helsingin yleisillä alueilla][SOC_HRI_esimerkki]
-
 * Esimerkkisovellus: [semantic.hri.fi-esimerkkisovelluksia][SOC_sovellus]
 
 
@@ -41,7 +38,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kuolleet kuolinsyyn mukaan 2007][SOC_HRI_esimerkki]
 
-* 
 
 
 ---
@@ -51,7 +47,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Espoon aurinkoenergiakartta][ENE_HRI_esimerkki]
-
 * Esimerkkisovellus: [Nomadi][ENE_sovellus]
 
 
@@ -63,7 +58,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kartta Kulosaaren huvilakaupungista vuodelta 1917][GIS_HRI_esimerkki]
-
 * Esimerkkisovellus: [Interaktiiviset visualisoinnit kaupunkidatalla][GIS_sovellus]
 
 
@@ -75,7 +69,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin kaupungin rakennusrekisterin ote 6/2012][CAD_HRI_esimerkki]
-
 * Esimerkkisovellus: [Rakennettu Helsinki 1812–2012][CAD_sovellus]
 
 
@@ -86,7 +79,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin suomenkielisen työväenopiston tilastot][EDU_HRI_esimerkki]
-
 * Esimerkkisovellus: [semantic.hri.fi-esimerkkisovelluksia][EDU_sovellus]
 
 
@@ -97,7 +89,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin matkailukohteiden kävijämäärät vuosina 2005–2008][CUL_HRI_esimerkki]
-
 * Esimerkkisovellus: [HelMet Viivakoodinlukija][CUL_sovellus]
 
 
@@ -108,7 +99,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Vantaan kaupungin tulot ja menot 2010, 2011 ja 2012][FIN_HRI_esimerkki]
-
 * Esimerkkisovellus: [Tax Tree][FIN_sovellus]
 
 
@@ -119,7 +109,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Rajapinta Staran lumiaurojen sijantitietoihin][TRA_HRI_esimerkki]
-
 * Esimerkkisovellus: [Lumiaurojen sijaintipilotti][TRA_sovellus]
 
 
@@ -133,7 +122,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Poliisilain perusteella kiinniotetut Vantaalla 2005 – 2011][LAW_HRI_esimerkki]
 
-* 
 
 
 ---
@@ -143,7 +131,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Liikenneonnettomuudet Helsingissä 2000-2010][SEC_HRI_esimerkki]
-
 * Esimerkkisovellus: [Google Fusion Tables -tutoriaali][SEC_sovellus]
 
 
@@ -155,7 +142,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Rakennusmaavaranto SeutuRAMAVA][CON_HRI_esimerkki]
-
 * Esimerkkisovellus: [Helsingin kaupungin rakennushankkeet][CON_sovellus]
 
 
@@ -167,7 +153,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin päivähoitotilastot][ADM_HRI_esimerkki]
 
-* 
 
 
 
@@ -179,7 +164,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin seudun sairastavuusindeksi 2009][HEA_HRI_esimerkki]
 
-* 
 
 
 ---
@@ -189,7 +173,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Tulonsaajat sukupuolen ja iän mukaan 1980–2007][INC_HRI_esimerkki]
-
 * Esimerkkisovellus: [Tuloerot pääkaupunkiseudulla alueittain][INC_sovellus]
 
 
@@ -201,7 +184,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Työttömyysasteet (%) sukupuolen mukaan 2000–2007][LAB_HRI_esimerkki]
 
-* 
 
 
 ---
@@ -211,7 +193,6 @@ Esimerkkitekstiä
 Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsinki: Syntyneet alueittain alkaen vuodesta 1976][POP_HRI_esimerkki]
-
 * Esimerkkisovellus: [Hyvinvointikompassi][POP_sovellus]
 
 
@@ -223,7 +204,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Vantaan urheilu-, ulkoilu- ja liikuntatilat 2006 – 2011][SPO_HRI_esimerkki]
 
-* 
 
 
 ---
@@ -233,7 +213,6 @@ Esimerkkitekstiä
 Ilman- ja vedenlaatuun, ympäristölupiin, luonnonsuojeluun, meluun, jätteisiin, päästöihin, vesistöihin, viheralueisiin, säähän ja ilmastoon liittyviä tilasto-, rekisteri- ja paikkatietoaineistoja.
 
 * Esimekkiaineisto: [Luonnonsuojelulain nojalla rauhoitetut luonnonsuojelualueet Vantaalla 2011][ENV_HRI_esimerkki]
-
 * Esimerkkisovellus: [Helsinki CO2][ENV_sovellus]
 
 
@@ -245,7 +224,6 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Yhteisöjen tuloverotuksen julkiset tiedot][BUS_HRI_esimerkki]
 
-* 
 
 
 
