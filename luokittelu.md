@@ -19,7 +19,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kunnallisvaalit Helsingissä 1984-2008, äänimäärät][DEM_HRI_esimerkki]
 
-* Esimerkkisovellus: [][DEM_sovellus]
+* Esimerkkisovellus: [Helsingin päätökset][DEM_sovellus]
 
 
 ---
@@ -30,7 +30,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Terassit Helsingin yleisillä alueilla][SOC_HRI_esimerkki]
 
-* Esimerkkisovellus: [][SOC_sovellus]
+* Esimerkkisovellus: [semantic.hri.fi-esimerkkisovelluksia][SOC_sovellus]
 
 
 ---
@@ -41,7 +41,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kuolleet kuolinsyyn mukaan 2007][SOC_HRI_esimerkki]
 
-* Esimerkkisovellus: [][SOC_sovellus]
+* 
 
 
 ---
@@ -52,7 +52,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Espoon aurinkoenergiakartta][ENE_HRI_esimerkki]
 
-* Esimerkkisovellus: [][ENE_sovellus]
+* Esimerkkisovellus: [Nomadi][ENE_sovellus]
 
 
 
@@ -64,7 +64,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Kartta Kulosaaren huvilakaupungista vuodelta 1917][GIS_HRI_esimerkki]
 
-* Esimerkkisovellus: [][GIS_sovellus]
+* Esimerkkisovellus: [Interaktiiviset visualisoinnit kaupunkidatalla][GIS_sovellus]
 
 
 
@@ -76,7 +76,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin kaupungin rakennusrekisterin ote 6/2012][CAD_HRI_esimerkki]
 
-* Esimerkkisovellus: [][CAD_sovellus]
+* Esimerkkisovellus: [Rakennettu Helsinki 1812–2012][CAD_sovellus]
 
 
 ---
@@ -87,7 +87,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin suomenkielisen työväenopiston tilastot][EDU_HRI_esimerkki]
 
-* Esimerkkisovellus: [][EDU_sovellus]
+* Esimerkkisovellus: [semantic.hri.fi-esimerkkisovelluksia][EDU_sovellus]
 
 
 ---
@@ -98,7 +98,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin matkailukohteiden kävijämäärät vuosina 2005–2008][CUL_HRI_esimerkki]
 
-* Esimerkkisovellus: [][CUL_sovellus]
+* Esimerkkisovellus: [HelMet Viivakoodinlukija][CUL_sovellus]
 
 
 ---
@@ -109,7 +109,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Vantaan kaupungin tulot ja menot 2010, 2011 ja 2012][FIN_HRI_esimerkki]
 
-* Esimerkkisovellus: [][FIN_sovellus]
+* Esimerkkisovellus: [Tax Tree][FIN_sovellus]
 
 
 ---
@@ -120,7 +120,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Rajapinta Staran lumiaurojen sijantitietoihin][TRA_HRI_esimerkki]
 
-* Esimerkkisovellus: [][TRA_sovellus]
+* Esimerkkisovellus: [Lumiaurojen sijaintipilotti][TRA_sovellus]
 
 
 
@@ -133,7 +133,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Poliisilain perusteella kiinniotetut Vantaalla 2005 – 2011][LAW_HRI_esimerkki]
 
-* Esimerkkisovellus: [][LAW_sovellus]
+* 
 
 
 ---
@@ -144,7 +144,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Liikenneonnettomuudet Helsingissä 2000-2010][SEC_HRI_esimerkki]
 
-* Esimerkkisovellus: [][SEC_sovellus]
+* Esimerkkisovellus: [Google Fusion Tables -tutoriaali][SEC_sovellus]
 
 
 
@@ -156,7 +156,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Rakennusmaavaranto SeutuRAMAVA][CON_HRI_esimerkki]
 
-* Esimerkkisovellus: [][CON_sovellus]
+* Esimerkkisovellus: [Helsingin kaupungin rakennushankkeet][CON_sovellus]
 
 
 ---
@@ -167,7 +167,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin päivähoitotilastot][ADM_HRI_esimerkki]
 
-* Esimerkkisovellus: [][ADM_sovellus]
+* 
 
 
 
@@ -179,7 +179,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsingin seudun sairastavuusindeksi 2009][HEA_HRI_esimerkki]
 
-* Esimerkkisovellus: [][HEA_sovellus]
+* 
 
 
 ---
@@ -190,7 +190,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Tulonsaajat sukupuolen ja iän mukaan 1980–2007][INC_HRI_esimerkki]
 
-* Esimerkkisovellus: [][INC_sovellus]
+* Esimerkkisovellus: [Tuloerot pääkaupunkiseudulla alueittain][INC_sovellus]
 
 
 ---
@@ -201,7 +201,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Työttömyysasteet (%) sukupuolen mukaan 2000–2007][LAB_HRI_esimerkki]
 
-* Esimerkkisovellus: [][LAB_sovellus]
+* 
 
 
 ---
@@ -212,7 +212,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Helsinki: Syntyneet alueittain alkaen vuodesta 1976][POP_HRI_esimerkki]
 
-* Esimerkkisovellus: [][POP_sovellus]
+* Esimerkkisovellus: [Hyvinvointikompassi][POP_sovellus]
 
 
 ---
@@ -223,7 +223,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Vantaan urheilu-, ulkoilu- ja liikuntatilat 2006 – 2011][SPO_HRI_esimerkki]
 
-* Esimerkkisovellus: [][SPO_sovellus]
+* 
 
 
 ---
@@ -234,7 +234,7 @@ Ilman- ja vedenlaatuun, ympäristölupiin, luonnonsuojeluun, meluun, jätteisiin
 
 * Esimekkiaineisto: [Luonnonsuojelulain nojalla rauhoitetut luonnonsuojelualueet Vantaalla 2011][ENV_HRI_esimerkki]
 
-* Esimerkkisovellus: [Vesireki - Ympäristökeskuksen vapaista vesistöistä mitattujen vesinäytteiden paikkatietojärjestelmä][ENV_sovellus]
+* Esimerkkisovellus: [Helsinki CO2][ENV_sovellus]
 
 
 ---
@@ -245,7 +245,7 @@ Esimerkkitekstiä
 
 * Esimekkiaineisto: [Yhteisöjen tuloverotuksen julkiset tiedot][BUS_HRI_esimerkki]
 
-* Esimerkkisovellus: [][BUS_sovellus]
+* 
 
 
 
@@ -336,24 +336,17 @@ Links to example aplications in hri.fi
 -->
 
 [HOU_sovellus]: http://www.hri.fi/fi/sovellukset/asuntokuume-katso-kartta-taalta-loytyy-edullisin-koti-urbaanille-lapsiperheelle/
-[DEM_sovellus]: 
-[SOC_sovellus]: 
-[SOC_sovellus]: 
-[ENE_sovellus]: 
-[GIS_sovellus]: 
-[CAD_sovellus]: 
-[EDU_sovellus]: 
-[CUL_sovellus]: 
-[FIN_sovellus]: 
-[TRA_sovellus]: 
-[LAW_sovellus]: 
-[SEC_sovellus]: 
-[CON_sovellus]: 
-[ADM_sovellus]: 
-[HEA_sovellus]: 
-[INC_sovellus]: 
-[LAB_sovellus]: 
-[POP_sovellus]: 
-[SPO_sovellus]: 
-[ENV_sovellus]: http://www.hri.fi/fi/sovellukset/?application_tag=646
-[BUS_sovellus]: 
+[DEM_sovellus]: http://www.hri.fi/fi/sovellukset/helsingin-paatokset/
+[SOC_sovellus]: http://www.hri.fi/fi/sovellukset/semantic-hri-fi/
+[ENE_sovellus]: http://www.hri.fi/fi/sovellukset/nomadi/
+[GIS_sovellus]: http://www.hri.fi/fi/sovellukset/interaktiiviset-visualisoinnit-kaupunkidatalla/
+[CAD_sovellus]: http://www.hri.fi/fi/sovellukset/rakennettu-helsinki-1812-2012/
+[EDU_sovellus]: http://www.hri.fi/fi/sovellukset/semantic-hri-fi/
+[CUL_sovellus]: http://www.hri.fi/fi/sovellukset/helmet-viivakoodinlukija/
+[FIN_sovellus]: http://www.hri.fi/fi/sovellukset/tax-tree/
+[TRA_sovellus]: http://www.hri.fi/fi/sovellukset/lumiaurojen-sijaintipilotti/
+[SEC_sovellus]: http://www.hri.fi/fi/sovellukset/google-fusion-tables-tutoriaali/
+[CON_sovellus]: http://www.hri.fi/fi/sovellukset/helsingin-kaupungin-rakennushankkeet/
+[INC_sovellus]: http://www.hri.fi/fi/sovellukset/tuloerot-paakaupunkiseudulla-alueittain/
+[POP_sovellus]: http://www.hri.fi/fi/sovellukset/hyvinvointikompassi/
+[ENV_sovellus]: http://www.hri.fi/fi/sovellukset/helsinki-co2/
